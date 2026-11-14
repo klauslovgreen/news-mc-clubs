@@ -113,7 +113,15 @@
                                     "description": "Monaco association for the American community and friends of the United States, with social and cultural events.",
                                     "url": "https://monacousa.org/",
                                     "url_label": "monacousa.org",
-                                    "next_event": null,
+                                    "next_event": {
+                                        "title": "Meet the Consuls!",
+                                        "date": "2026-11-17",
+                                        "date_text": "Tuesday 17 November 2026",
+                                        "time": "18:00",
+                                        "venue": "Rumore by Zeffirino, 11 rue du Portier",
+                                        "note": "Welcoming Honorary Monaco Consuls to the US and Canada",
+                                        "url": "https://www.facebook.com/events/1643767083993447/"
+                                    },
                                     "fee": null,
                                     "membership_url": "",
                                     "notes": "",
