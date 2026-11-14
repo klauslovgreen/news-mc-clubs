@@ -1,0 +1,1228 @@
+{
+    "schema_version": 1,
+    "updated": "2026-11-14",
+    "source": "NEWS.MC SEO Desk. Extracted from the built-in copy in the news.mc snippet \"Monaco clubs\" v003e (14 Nov 2026). Read by https://news.mc every 12 hours; see README.md.",
+    "meta": {
+        "checked_date": "2026-11-14",
+        "events_checked_date": "2026-11-14",
+        "contact_url": "https://news.mc/contact/",
+        "contact_label": "Contact NEWS.MC",
+        "faq_heading": "Frequently asked questions",
+        "page_url": "https://news.mc/monaco-clubs-associations/"
+    },
+    "intro_html": [
+        "This page is a verified list of national and expat associations, resident and business clubs, service clubs, and women’s or social clubs in Monaco, with a short note on the main sport, yacht and private members’ clubs. It is intended for new residents, expatriates and anyone looking for a community in the Principality."
+    ],
+    "how_to_choose": {
+        "heading": "How to choose",
+        "paragraphs_html": [
+            "If you are new to Monaco and do not yet have a national association to join, start with the CREM, the Club des Résidents Étrangers de Monaco. It is the main cross-national club for residents and for companies registered in Monaco, and it hosts the Welcome Office’s information meetings for new residents. Where no national club exists, the Association of Honorary Consuls of Monaco can also help you find your community. The Welcome Office at Invest Monaco (2a boulevard des Moulins) keeps a fuller list of smaller, volunteer-run associations, including many that have no website. Company networking goes through the <a href=\"https://www.mcc.mc/\" rel=\"noopener\" target=\"_blank\">Chamber of Commerce</a> (formerly the Monaco Economic Board); there is no American Chamber of Commerce in Monaco and no British Business Group."
+        ]
+    },
+    "sections": [
+        {
+            "heading": "National and expat clubs and associations",
+            "intro_html": [],
+            "subsections": [
+                {
+                    "heading": "British and Irish",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "British Association of Monaco (BAM)",
+                                    "short_name": "British Association of Monaco",
+                                    "description": "Founded on 30 October 1935; social and charitable association for British and Commonwealth residents, with associate membership open to other nationalities. About 250 members.",
+                                    "url": "https://www.bam-monaco.org/",
+                                    "url_label": "www.bam-monaco.org",
+                                    "next_event": {
+                                        "title": "The Tea Cosy Club",
+                                        "date": "2026-11-20",
+                                        "date_text": "20 November 2026",
+                                        "time": "15:00–17:00",
+                                        "venue": "St Paul Anglican Church",
+                                        "note": "",
+                                        "url": "https://www.bam-monaco.org/event-6893214"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "https://www.bam-monaco.org/join-us",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Princess Grace Irish Library",
+                                    "short_name": "Princess Grace Irish Library",
+                                    "description": "The main Irish entry on this list. The library has a membership and runs a regular programme of lectures and symposia, a book club and a St Patrick’s Day event. For Irish residents it is effectively the community club.",
+                                    "url": "https://pgil.mc/",
+                                    "url_label": "pgil.mc",
+                                    "next_event": {
+                                        "title": "PGIL Book Club session",
+                                        "date": "2026-11-24",
+                                        "date_text": "Tuesday 24 November 2026",
+                                        "time": "14:00",
+                                        "venue": "",
+                                        "note": "",
+                                        "url": "https://pgil.mc/lectures/book-club-session"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "https://pgil.mc/medias/2026-membership-application-pgil.pdf",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Monaco-Ireland Arts Society (MIAS)",
+                                    "short_name": "",
+                                    "description": "Founded in October 1994 to present Irish literature, drama and music in Monaco. A cultural society, listed alongside the Irish Library.",
+                                    "url": "https://monaco-ireland-arts.org/",
+                                    "url_label": "monaco-ireland-arts.org",
+                                    "next_event": null,
+                                    "fee": {
+                                        "text": "€20 a year",
+                                        "url": "https://monaco-ireland-arts.org/about/membership/"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Ireland Funds Monaco",
+                                    "short_name": "",
+                                    "description": "Monaco chapter of The Ireland Funds, listed alongside the Irish Library and the arts society. Not a general residents’ club.",
+                                    "url": "https://irelandfunds.org/chapters/monaco/",
+                                    "url_label": "irelandfunds.org/chapters/monaco",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "American and Canadian",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Association Monaco / USA (MonacoUSA)",
+                                    "short_name": "MonacoUSA",
+                                    "description": "Monaco association for the American community and friends of the United States, with social and cultural events.",
+                                    "url": "https://monacousa.org/",
+                                    "url_label": "monacousa.org",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Canadian Club de Monaco",
+                                    "short_name": "",
+                                    "description": "Canadian community association, listed in the official Monaco directory at 7 boulevard d’Italie. A board was published in the <em>Journal de Monaco</em> in 2012; recent public activity could not be independently confirmed beyond the listing. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "American Club of the Riviera",
+                                    "short_name": "",
+                                    "description": "Nearby, not a Monaco club. A Côte d’Azur American club that sometimes holds events in Monaco; not a Monaco-registered national club.",
+                                    "url": "https://americancluboftheriviera.wildapricot.org/",
+                                    "url_label": "americancluboftheriviera.wildapricot.org",
+                                    "next_event": {
+                                        "title": "Beaujolais Nouveau 2026 Celebration",
+                                        "date": "2026-11-19",
+                                        "date_text": "19 November 2026",
+                                        "time": "18:00–21:00",
+                                        "venue": "Le Napoléon Brasserie, Nice",
+                                        "note": "",
+                                        "url": "https://americancluboftheriviera.wildapricot.org/event-6891685"
+                                    },
+                                    "fee": {
+                                        "text": "€60 a year per person, plus a one-time €40 initiation fee",
+                                        "url": "https://americancluboftheriviera.wildapricot.org/join-us"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "German, Swiss, Belgian and Flemish",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Club Allemand International de la Principauté de Monaco (CAI)",
+                                    "short_name": "Club Allemand International (CAI)",
+                                    "description": "Founded in 1973 (renamed in 1975; a Monegasque association from 2017). About 200 members of 25 nationalities; open to German-speakers and others with an affinity for German culture. Registered at the Hôtel de Paris.",
+                                    "url": "https://www.cai-asso.com/",
+                                    "url_label": "www.cai-asso.com",
+                                    "next_event": {
+                                        "title": "Reception and lunch for Monaco’s National Day",
+                                        "date": "2026-11-18",
+                                        "date_text": "Wednesday 18 November 2026",
+                                        "time": "12:00",
+                                        "venue": "Automobile Club de Monaco",
+                                        "note": "",
+                                        "url": "https://www.cai-asso.com/fr/agenda/r%C3%A9ception-%C3%A0-l-occasion-de-la-f%C3%AAte-nationale-de-monaco-000476"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "https://www.cai-asso.com/fr/comment-devenir-membre-du-cai-32",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Club Suisse de Monaco",
+                                    "short_name": "",
+                                    "description": "Formally constituted in 1949, among the Principality’s oldest national associations. Open to Swiss nationals and friends of Switzerland; political, economic, cultural and social programme.",
+                                    "url": "https://www.club-suisse-monaco.com/",
+                                    "url_label": "www.club-suisse-monaco.com",
+                                    "next_event": {
+                                        "title": "Fête de Noël 2026",
+                                        "date": "2026-12-03",
+                                        "date_text": "Thursday 3 December 2026",
+                                        "time": "19:00",
+                                        "venue": "Castelroc",
+                                        "note": "",
+                                        "url": "https://www.club-suisse-monaco.com/events/fete-de-noel-2026"
+                                    },
+                                    "fee": {
+                                        "text": "Admission €200 (single) or €300 (couple), once; annual membership €150 (single) or €250 (couple), January–December",
+                                        "url": "https://www.club-suisse-monaco.com/"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Les Amitiés Belges de Monaco (Club des Amitiés Belges)",
+                                    "short_name": "Les Amitiés Belges de Monaco",
+                                    "description": "Belgian community association which, on its own account, was founded in 1912 and became a Société Royale in 1967; more than 200 members, with a regular social, cultural and charitable programme.",
+                                    "url": "https://amitiesbelges.com/",
+                                    "url_label": "amitiesbelges.com",
+                                    "next_event": {
+                                        "title": "Dîner de Noël",
+                                        "date": "2026-12-04",
+                                        "date_text": "4 December 2026",
+                                        "time": "",
+                                        "venue": "",
+                                        "note": "members only",
+                                        "url": "https://amitiesbelges.com/product/diner-de-noel-04-12-2026/"
+                                    },
+                                    "fee": {
+                                        "text": "€95 a year (adults under 30), €200 a year (adults over 30), €350 a year (couple)",
+                                        "url": "https://amitiesbelges.com/adhesion/"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Vlaamse Club Monaco (Le Club Flamand de Monaco)",
+                                    "short_name": "Vlaamse Club Monaco",
+                                    "description": "Brings together Flemings and friends of Flanders in Monaco and nearby for cultural, social and networking events.",
+                                    "url": "https://www.vlaamseclub.mc/",
+                                    "url_label": "www.vlaamseclub.mc",
+                                    "next_event": {
+                                        "title": "Sinterklaas",
+                                        "date": "2026-12-06",
+                                        "date_text": "Sunday 6 December 2026",
+                                        "time": "15:00",
+                                        "venue": "Quai des Artistes",
+                                        "note": "",
+                                        "url": "https://www.vlaamseclub.mc/events/31"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "https://www.vlaamseclub.mc/join",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "French",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Maison de France / Fédération des Groupements Français de Monaco (FGFM)",
+                                    "short_name": "",
+                                    "description": "The French community’s house and federation at 42 rue Grimaldi: commemorations, exhibitions, conferences and a base for French associations in the Principality.",
+                                    "url": "https://www.lamaisondefranceamonaco.com/",
+                                    "url_label": "www.lamaisondefranceamonaco.com",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "UFE Monaco — Union des Français de l'Étranger",
+                                    "short_name": "",
+                                    "description": "Monaco representation of the Union des Français de l’Étranger, for French nationals living in the Principality.",
+                                    "url": "https://ufe-monaco.org/",
+                                    "url_label": "ufe-monaco.org",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "html": "The Monaco directory also lists an <strong>Union des Français de Monaco</strong>. No separate official website was found; it may overlap with UFE or the Maison de France network."
+                        },
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Alliance Française de Monaco",
+                                    "short_name": "",
+                                    "description": "French-language school and cultural association, not a residents’ club in the usual sense, but a main meeting point for the French-speaking community.",
+                                    "url": "https://afmonaco.mc/",
+                                    "url_label": "afmonaco.mc",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Italian",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Società Dante Alighieri — Comitato di Monaco",
+                                    "short_name": "Società Dante Alighieri Monaco",
+                                    "description": "Founded in 1979 and affiliated with the Dante Alighieri Society in Rome. Promotes Italian language and culture, with courses, PLIDA certification and cultural events.",
+                                    "url": "https://www.ladantemonaco.com/",
+                                    "url_label": "www.ladantemonaco.com",
+                                    "next_event": {
+                                        "title": "Film screening: La Pazza Gioia",
+                                        "date": "2026-11-18",
+                                        "date_text": "Wednesday 18 November 2026",
+                                        "time": "18:30",
+                                        "venue": "Auditorium Agorà, Maison Diocésaine",
+                                        "note": "",
+                                        "url": "https://www.ladantemonaco.com/eventi/"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "https://www.ladantemonaco.com/diventa-socio/perche-diventare-socio.kl",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Comites Principato di Monaco",
+                                    "short_name": "",
+                                    "description": "Official elected Committee of Italians Abroad for the Principality, representing the Italian community vis-à-vis the Italian authorities.",
+                                    "url": "https://comites-monaco.org/",
+                                    "url_label": "comites-monaco.org",
+                                    "next_event": {
+                                        "title": "Concerto di Natale",
+                                        "date": "2026-12-03",
+                                        "date_text": "Thursday 3 December 2026",
+                                        "time": "18:00",
+                                        "venue": "Espace Léo Ferré",
+                                        "note": "",
+                                        "url": "https://comites-monaco.org/2026/11/06/con-il-com-it-es-al-concerto-di-natale-2026-come-partecipare/"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Associazione Imprenditori Italiani di Monaco (AIIM)",
+                                    "short_name": "",
+                                    "description": "Association of Italian entrepreneurs established in Monaco.",
+                                    "url": "https://aiim.mc/",
+                                    "url_label": "aiim.mc",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Comité de Bienfaisance de la Colonie Italienne de Monaco",
+                                    "short_name": "",
+                                    "description": "Long-standing Italian community charity committee, listed in the official directory (25 boulevard Albert Ier). No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                },
+                                {
+                                    "name": "Comité Tricolore pour les Italiens dans le Monde (CTIM)",
+                                    "short_name": "",
+                                    "description": "Italian community association listed in the official directory. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Spanish and Portuguese",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Association des Portugais à Monaco / Association Folklorique des Portugais de Monaco (AFPM)",
+                                    "short_name": "",
+                                    "description": "The official directory lists an Association des Portugais à Monaco. Press coverage through February 2026 describes the Association Folklorique des Portugais de Monaco (AFPM), founded in 1996, as the public face of Portuguese traditions and an annual folklore festival (often held in Roquebrune-Cap-Martin). They appear to be the same community effort. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Greek, Russian, Ukrainian and Baltic",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Communauté Hellénique de Monaco (CHM)",
+                                    "short_name": "Communauté Hellénique (CHM)",
+                                    "description": "Hellenic Community of Monaco, for Greeks and philhellenes; business and social life, plus Greek history, culture and traditions. Active programme in 2026.",
+                                    "url": "https://chm.mc/",
+                                    "url_label": "chm.mc",
+                                    "next_event": {
+                                        "title": "Christmas Dinner",
+                                        "date": "2026-12-03",
+                                        "date_text": "3 December 2026",
+                                        "time": "20:30",
+                                        "venue": "Sass’ Café",
+                                        "note": "",
+                                        "url": "https://chm.mc/2026/09/20/christmas-dinner/"
+                                    },
+                                    "fee": {
+                                        "text": "€150 a year (2026 subscription, expires 31 January 2027)",
+                                        "url": "https://chm.mc/product/annual-subscription-2026/"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Centre Culturel Russe de Monaco",
+                                    "short_name": "",
+                                    "description": "Founded in 2009. Library, Russian school and a members’ club promoting Russian language and culture for Russian-speaking residents and anyone interested, while supporting integration in Monaco.",
+                                    "url": "https://centreculturelrusse.mc/fr",
+                                    "url_label": "centreculturelrusse.mc/fr",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Ukraine Monaco Association",
+                                    "short_name": "",
+                                    "description": "Grew out of volunteer support for Ukrainians from 2022 and was constituted as an association in 2025. Culture, community support and humanitarian solidarity with Ukraine.",
+                                    "url": "https://ukrainemonaco.com/",
+                                    "url_label": "ukrainemonaco.com",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Monaco Baltic States Association (MBSA)",
+                                    "short_name": "",
+                                    "description": "Association linking Monaco with Estonia, Latvia and Lithuania through cultural and commemorative events. This is a Baltic, not a Scandinavian, association.",
+                                    "url": "https://www.monacobalticstates.net/",
+                                    "url_label": "www.monacobalticstates.net",
+                                    "next_event": null,
+                                    "fee": {
+                                        "text": "Active member €40 a year; other published categories from €30 (student or remote) to €300 (foundation member)",
+                                        "url": "https://www.monacobalticstates.net/plans-pricing"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Chinese and Japanese",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Association Monaco-Chine",
+                                    "short_name": "",
+                                    "description": "Authorised in 1997. Promotes cultural, artistic, tourist, sporting and economic exchanges between China and Monaco; Chinese classes and a Chinese New Year gala among its activities.",
+                                    "url": "https://www.monacochine.com/",
+                                    "url_label": "www.monacochine.com",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Association Monaco Friends of Japan (AMFJ)",
+                                    "short_name": "",
+                                    "description": "Promotes Japanese culture from Monaco through exhibitions, conferences, classes, travel and other exchanges. The official directory also lists an Association Monaco-Japon, which appears to be the same community.",
+                                    "url": "https://amfj-monaco.com/",
+                                    "url_label": "amfj-monaco.com",
+                                    "next_event": null,
+                                    "fee": {
+                                        "text": "€50 a year (individual), €90 a year (duo), €25 a year (student under 25); supporting member from €1,000 a year",
+                                        "url": "https://amfj-monaco.com/touroku-fra/"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Lebanese, Tunisian, Moroccan, Brazilian and Latin American",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Les Amis du Liban",
+                                    "short_name": "",
+                                    "description": "Monegasque association founded in December 2002; humanitarian work for children and disadvantaged people in Lebanon and beyond, rather than a purely social residents’ club.",
+                                    "url": "https://www.lesamisdulibanmonaco.org/",
+                                    "url_label": "www.lesamisdulibanmonaco.org",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "https://www.lesamisdulibanmonaco.org/devenir-membre/",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Union Culturelle Libanaise Mondiale Franco-Monégasque",
+                                    "short_name": "",
+                                    "description": "Lebanese cultural association listed in the official directory. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                },
+                                {
+                                    "name": "Club Amitié Monaco–Tunisie",
+                                    "short_name": "",
+                                    "description": "Tunisia–Monaco friendship association, listed in the official directory (33 rue du Portier). No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                },
+                                {
+                                    "name": "Monaco-Tunisie",
+                                    "short_name": "",
+                                    "description": "A separate cultural-association listing in the official directory; it may overlap with the friendship club above. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                },
+                                {
+                                    "name": "Association Marocaine de Monaco",
+                                    "short_name": "",
+                                    "description": "Moroccan community association, listed in the official directory (43 avenue de Grande-Bretagne). No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                },
+                                {
+                                    "name": "Association Brésil-Monaco",
+                                    "short_name": "",
+                                    "description": "Brazilian community association, recorded in the <em>Journal de Monaco</em> in 2023 (10 boulevard de Belgique) and listed in the official directory. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                },
+                                {
+                                    "name": "Union Latino-Américaine",
+                                    "short_name": "",
+                                    "description": "Latin American association listed in the official directory. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Communities with no verified Monaco club",
+                    "blocks": [
+                        {
+                            "type": "p",
+                            "html": "Irish community life in Monaco is centred on the Princess Grace Irish Library, with the Monaco-Ireland Arts Society and Ireland Funds Monaco listed alongside it. There is no separate Irish residents’ association of the usual kind."
+                        },
+                        {
+                            "type": "p",
+                            "html": "No Monaco-registered residents’ club or association could be verified for Spain (the Club Hispano-Monégasque Cervantes was dissolved as of 31 December 2023), the Netherlands, Denmark, Sweden or Norway, India, Australia, or a general Turkish community club. A Galatasaray Association de Monaco is listed in the directory, but it appears to be a sports supporters’ club and has no website."
+                        },
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Nederlandse Club Provence–Côte d’Azur",
+                                    "short_name": "Nederlandse Club Côte d’Azur",
+                                    "description": "Nearby, not a Monaco club. Serves the Dutch community on the French Riviera; not a Monaco-registered association.",
+                                    "url": "https://www.nedazur.org/",
+                                    "url_label": "www.nedazur.org",
+                                    "next_event": {
+                                        "title": "Cleveringabijeenkomst 2026",
+                                        "date": "2026-11-28",
+                                        "date_text": "28 November 2026",
+                                        "time": "11:00–15:00",
+                                        "venue": "",
+                                        "note": "",
+                                        "url": "https://www.nedazur.org/agenda/cleveringabijeenkomst-2026"
+                                    },
+                                    "fee": {
+                                        "text": "€40 a year (individual) or €52 a year (family), plus a one-time €10 enrolment fee per person",
+                                        "url": "https://www.nedazur.org/word-lid"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "heading": "Resident and business clubs",
+            "intro_html": [],
+            "subsections": [
+                {
+                    "heading": "",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "CREM — Club des Résidents Étrangers de Monaco",
+                                    "short_name": "CREM",
+                                    "description": "Opened on 1 June 2010 with the support of H.S.H. Prince Albert II. The main cross-national club for foreign and Monegasque residents and for companies registered in Monaco; more than 500 members from 46 countries. Premises at 1 avenue Princesse Grace. Admissions committee. Venue for the Welcome Office’s information meetings for new residents.",
+                                    "url": "https://www.club-residents-etrangers-monaco.com/",
+                                    "url_label": "www.club-residents-etrangers-monaco.com",
+                                    "next_event": {
+                                        "title": "Dégustation de vins de Bourgogne – David Bolzan",
+                                        "date": "2026-11-17",
+                                        "date_text": "17 November 2026",
+                                        "time": "",
+                                        "venue": "",
+                                        "note": "",
+                                        "url": "https://www.club-residents-etrangers-monaco.com/fr/events.html"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "https://www.club-residents-etrangers-monaco.com/fr/les-formulaires-d-adhesion.html,37",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Association des Consuls Honoraires de Monaco (ACHM)",
+                                    "short_name": "",
+                                    "description": "Founded in 2003. Brings together honorary consuls and helps foreign nationals find their community and integrate. Especially useful where no national club exists.",
+                                    "url": "https://www.achm.mc/",
+                                    "url_label": "www.achm.mc",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Monaco Chamber of Commerce (formerly Monaco Economic Board)",
+                                    "short_name": "Monaco Chamber of Commerce",
+                                    "description": "On 5 October 2026 the Monaco Economic Board officially became the Chamber of Commerce of Monaco, the Principality’s main business membership body for companies registered in Monaco. The old address meb.mc redirects here.",
+                                    "url": "https://www.mcc.mc/",
+                                    "url_label": "www.mcc.mc",
+                                    "next_event": {
+                                        "title": "Conférence “Business Destination”: Republic of the Czech Republic",
+                                        "date": "2026-11-17",
+                                        "date_text": "17 November 2026",
+                                        "time": "",
+                                        "venue": "",
+                                        "note": "",
+                                        "url": "https://www.mcc.mc/fr/agenda/conference-business-destination-la-republique-tcheque"
+                                    },
+                                    "fee": {
+                                        "text": "€700 a year (Classic) or €1,400 a year (Premium)",
+                                        "url": "https://www.mcc.mc/fr/pourquoi-adherer"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "FEDEM — Fédération des Entreprises Monégasques",
+                                    "short_name": "",
+                                    "description": "Employers’ federation coordinating the sector syndicates in the Principality.",
+                                    "url": "https://www.fedem.mc/",
+                                    "url_label": "www.fedem.mc",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Jeune Chambre Économique de Monaco (JCEM)",
+                                    "short_name": "",
+                                    "description": "JCI chapter, founded in 1963. For people aged 18–40 who work in Monaco: entrepreneurship, training and networking (Pitch Nights, breakfasts, the business-creation competition). Secretariat at 1 avenue des Castelans, Stade Louis II, entrance H.",
+                                    "url": "https://jcemonaco.mc/",
+                                    "url_label": "jcemonaco.mc",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "https://jcemonaco.mc/devenir-membre/",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "AFCEM — Association des Femmes Chefs d'Entreprises de Monaco",
+                                    "short_name": "AFCEM",
+                                    "description": "Association of women who own or run a business in Monaco; member of the FCEM world federation.",
+                                    "url": "https://www.afce-monaco.org/",
+                                    "url_label": "www.afce-monaco.org",
+                                    "next_event": {
+                                        "title": "Soirée de Noël",
+                                        "date": "2026-12-10",
+                                        "date_text": "Thursday 10 December 2026",
+                                        "time": "19:00–23:00",
+                                        "venue": "",
+                                        "note": "",
+                                        "url": "https://www.afce-monaco.org/agenda/55w3rdeo123ysnrz4y3t6h2vq6kvnd-r7f2f-ckads-w8385-58mfj-zdtmt-g9ja7-gzwcg-zj22s"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "https://www.afce-monaco.org/devenir-membre",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Propeller Club Monaco (International Port of Monaco)",
+                                    "short_name": "",
+                                    "description": "Founded in 1976. Professional club for shipowners, managers and others in shipping, cruising and related trades.",
+                                    "url": "https://www.propellermonaco.org/",
+                                    "url_label": "www.propellermonaco.org",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Institute of Directors Centre, Monaco",
+                                    "short_name": "",
+                                    "description": "Monaco centre of the Institute of Directors, authorised in the <em>Journal de Monaco</em> in 2022 and listed in the official directory (24 boulevard Princesse Charlotte). No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                },
+                                {
+                                    "name": "Monte-Carlo Business Club",
+                                    "short_name": "",
+                                    "description": "Business club listed in the official directory (38 boulevard des Moulins). Recent public activity could not be independently confirmed beyond the listing. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                },
+                                {
+                                    "name": "CJD Monaco — Centre des Jeunes Dirigeants",
+                                    "short_name": "",
+                                    "description": "Monegasque section of the French Centre des Jeunes Dirigeants, described as being attached to CJD PACA: peer-learning for owner-managers rather than a cocktail circuit. No reliable Monaco-specific website was found; the national movement is at <a href=\"https://www.cjd.net/\" rel=\"noopener\" target=\"_blank\">cjd.net</a>.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Club de la Presse de la Principauté de Monaco (Monaco Press Club)",
+                                    "short_name": "",
+                                    "description": "Professional press club, listed in the official directory. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "heading": "Service clubs",
+            "intro_html": [
+                "The <strong>Comité des Clubs Service Internationaux de Monaco (CCSIM)</strong> is the local umbrella that brings together the Kiwanis, Lions, Rotary and Zonta clubs (Soroptimist Monaco also describes itself as a member). No CCSIM website was found."
+            ],
+            "subsections": [
+                {
+                    "heading": "",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Rotary Club de Monaco",
+                                    "short_name": "",
+                                    "description": "Chartered in 1937; honorary presidency of H.S.H. Prince Albert II. Around 60 members of about ten nationalities, Rotary District 1730. Meets at Le Méridien Beach Plaza, 22 avenue Princesse Grace.",
+                                    "url": "https://www.rotary.mc/",
+                                    "url_label": "www.rotary.mc",
+                                    "next_event": {
+                                        "title": "Statutory meeting and dinner (Champagne – Maison Perrier-Jouët)",
+                                        "date": "2026-11-17",
+                                        "date_text": "17 November 2026",
+                                        "time": "20:00–22:30",
+                                        "venue": "Méridien Beach Plaza",
+                                        "note": "",
+                                        "url": "https://www.rotary.mc/evenement/reunion-statutaire-au-meridien-diner-au-champagne-maison-perrier-jouet/"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "https://www.rotary.mc/devenir-membre/",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Rotary Club de Monte-Carlo",
+                                    "short_name": "",
+                                    "description": "New mixed club, founded on 16 April 2026, also in District 1730.",
+                                    "url": "https://www.rotary1730.org/monte-carlo/",
+                                    "url_label": "www.rotary1730.org/monte-carlo",
+                                    "next_event": {
+                                        "title": "Launch evening",
+                                        "date": "2026-11-18",
+                                        "date_text": "Wednesday 18 November 2026",
+                                        "time": "from 19:00",
+                                        "venue": "Hôtel Méridien",
+                                        "note": "",
+                                        "url": "https://www.rotary1730.org/monte-carlo/"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Rotaract Prince Albert Ier",
+                                    "short_name": "",
+                                    "description": "Founded on 21 June 1999 and sponsored by the Rotary Club de Monaco, for younger professionals.",
+                                    "url": "https://www.rotary.mc/rotaract/",
+                                    "url_label": "www.rotary.mc/rotaract",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Lions Club de Monaco",
+                                    "short_name": "",
+                                    "description": "Founded in 1961. Meets on the second and fourth Thursday of the month; charity lotto and support for local causes.",
+                                    "url": "https://lionsmonaco.com/",
+                                    "url_label": "lionsmonaco.com",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Lions Club Féminin de Monaco",
+                                    "short_name": "",
+                                    "description": "Authorised in 1996 as the Lions Club Féminin de Monte-Carlo and still listed in the official directory. No recent public programme for 2023–26 could be independently confirmed. Treat as listed, not as independently verified to be active. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                },
+                                {
+                                    "name": "Kiwanis Club de Monaco",
+                                    "short_name": "",
+                                    "description": "Service club meeting on the second and fourth Monday (La Table d’Elise, 2 rue du Portier, according to the Kiwanis France–Monaco page).",
+                                    "url": "https://www.kiwanis.fr/club/monaco/",
+                                    "url_label": "www.kiwanis.fr/club/monaco",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Soroptimist Monaco",
+                                    "short_name": "",
+                                    "description": "Women’s service club working for the education and rights of women and girls; meets on the third Thursday of the month at 18:30.",
+                                    "url": "https://soroptimist-monaco.org/",
+                                    "url_label": "soroptimist-monaco.org",
+                                    "next_event": {
+                                        "title": "Journée de la Rose",
+                                        "date": "2028-05-08",
+                                        "date_text": "8 May 2028",
+                                        "time": "",
+                                        "venue": "Roseraie Princesse Grace",
+                                        "note": "",
+                                        "url": "https://soroptimist-monaco.org/"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Zonta Club Principauté de Monaco",
+                                    "short_name": "",
+                                    "description": "Women’s service club, District 30; present in Monaco since 1994. The official site did not respond reliably on 14 November 2026 (timeout / TLS error) but is the address published for the club.",
+                                    "url": "https://zontaclubmonaco.org/",
+                                    "url_label": "zontaclubmonaco.org",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "html": "No Round Table club and no Ladies Circle club could be verified in Monaco. No Monaco Inner Wheel club was found; only a long-standing French-side Inner Wheel club in Roquebrune-Cap-Martin whose registered name also mentions Monaco among neighbouring communes."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "heading": "Women’s, social and international clubs",
+            "intro_html": [
+                "Several service and business clubs above are also women’s organisations (AFCEM, Soroptimist, Zonta, Lions Club Féminin). The following are additional social, civic or professional women’s and international clubs."
+            ],
+            "subsections": [
+                {
+                    "heading": "",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Union des Femmes Monégasques (UFM)",
+                                    "short_name": "Union des Femmes Monégasques",
+                                    "description": "Founded in 1958. Civic association for women in Monaco, with a long record of advocacy on voting rights, nationality, work, housing and family, plus a living programme of activities. 26 quai Jean-Charles Rey.",
+                                    "url": "https://www.ufm.mc/",
+                                    "url_label": "www.ufm.mc",
+                                    "next_event": {
+                                        "title": "Causerie: “Nos beaux ratés : on en parle ?”",
+                                        "date": "2026-11-17",
+                                        "date_text": "Tuesday 17 November 2026",
+                                        "time": "18:00–19:30",
+                                        "venue": "",
+                                        "note": "",
+                                        "url": "https://www.ufm.mc/causeries/?evenement=2026-11-17#rendezvous"
+                                    },
+                                    "fee": {
+                                        "text": "€25 a year",
+                                        "url": "https://www.ufm.mc/adherer/"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Garden Club de Monaco",
+                                    "short_name": "",
+                                    "description": "Founded in 1968 by Princess Grace; presided since 1982 by H.R.H. the Princess of Hanover. Promotes the art of floral arrangement and an appreciation of nature.",
+                                    "url": "https://www.gardenclub-monaco.com/",
+                                    "url_label": "www.gardenclub-monaco.com",
+                                    "next_event": {
+                                        "title": "58th International Bouquet Competition",
+                                        "date": "2027-05-22",
+                                        "end_date": "2027-05-23",
+                                        "date_text": "Saturday 22 and Sunday 23 May 2027",
+                                        "time": "",
+                                        "venue": "Yacht Club de Monaco",
+                                        "note": "",
+                                        "url": "https://www.gardenclub-monaco.com/monaco-concours-bouquets"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "https://www.gardenclub-monaco.com/garden-club-monaco",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Ladies Lunch",
+                                    "short_name": "",
+                                    "description": "Monegasque association authorised in 2004; a women’s charitable lunch club supporting children and young people. Listed in the official directory. No website; listed in the Monaco directory.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "listed"
+                                },
+                                {
+                                    "name": "Women of Monaco Club",
+                                    "short_name": "",
+                                    "description": "Private, sponsorship-based women’s community launched in 2023 and still holding lunches and an awards ceremony in 2025–26 (coverage in <em>Monaco Woman</em> and <em>Monaco Life</em>). No currently working official website was found on 14 November 2026.",
+                                    "url": "",
+                                    "url_label": "",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Monaco Women Network / Monaco Women Forum",
+                                    "short_name": "Monaco Women Forum",
+                                    "description": "Professional women’s network and annual leadership forum in Monaco, not a traditional service club.",
+                                    "url": "https://www.monacowomenforum.com/en",
+                                    "url_label": "www.monacowomenforum.com/en",
+                                    "next_event": {
+                                        "title": "Making Waves: a Maritime Panel Discussion",
+                                        "date": "2026-11-23",
+                                        "date_text": "23 November 2026",
+                                        "time": "18:00–20:00",
+                                        "venue": "Le Méridien Beach Plaza",
+                                        "note": "",
+                                        "url": "https://www.monacowomenforum.com/en/event-details/making-waves-une-table-ronde-sur-le-maritime"
+                                    },
+                                    "fee": {
+                                        "text": "€150 a year",
+                                        "url": "https://www.monacowomenforum.com/en/network"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "heading": "Sport, yacht and private members’ clubs",
+            "intro_html": [
+                "This is a short note on the main names, not a full list of Monaco sports clubs."
+            ],
+            "subsections": [
+                {
+                    "heading": "",
+                    "blocks": [
+                        {
+                            "type": "clubs",
+                            "clubs": [
+                                {
+                                    "name": "Yacht Club de Monaco",
+                                    "short_name": "",
+                                    "description": "The Principality’s yacht club, on quai Louis II.",
+                                    "url": "https://yacht-club-monaco.mc/",
+                                    "url_label": "yacht-club-monaco.mc",
+                                    "next_event": {
+                                        "title": "Navicap Challenge Trophée Elena Sivoldaeva",
+                                        "date": "2026-12-04",
+                                        "end_date": "2026-12-06",
+                                        "date_text": "4–6 December 2026",
+                                        "time": "",
+                                        "venue": "",
+                                        "note": "",
+                                        "url": "https://yacht-club-monaco.mc/evenements/sportifs/navicap/"
+                                    },
+                                    "fee": null,
+                                    "membership_url": "https://yacht-club-monaco.mc/le-club/devenir-membre/",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Automobile Club de Monaco (ACM)",
+                                    "short_name": "Automobile Club de Monaco",
+                                    "description": "Organiser of the Monaco Grand Prix and the Rallye Monte-Carlo; members’ automobile club.",
+                                    "url": "https://acm.mc/",
+                                    "url_label": "acm.mc",
+                                    "next_event": {
+                                        "title": "Rallye Automobile Monte-Carlo",
+                                        "date": "2027-01-21",
+                                        "end_date": "2027-01-24",
+                                        "date_text": "21–24 January 2027",
+                                        "time": "",
+                                        "venue": "",
+                                        "note": "",
+                                        "url": "https://acm.mc/epreuves/rallye-automobile-monte-carlo/evenement/presentation-de-lepreuve/"
+                                    },
+                                    "fee": {
+                                        "text": "Entrance fee €5,000 and annual subscription €300 (tariffs published for 2026)",
+                                        "url": "https://acm.mc/automobile-club/le-club/service-inter-membres/devenir-membre/"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Monte-Carlo Country Club",
+                                    "short_name": "",
+                                    "description": "Tennis club of the Rolex Monte-Carlo Masters; the courts sit just over the border in Roquebrune-Cap-Martin.",
+                                    "url": "https://www.mccc.mc/",
+                                    "url_label": "www.mccc.mc",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "https://www.mccc.mc/fr/adh%C3%A9sions-59",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Société Nautique de Monaco",
+                                    "short_name": "",
+                                    "description": "Rowing club, founded in 1888 as the Société des Régates; the Principality’s oldest sports club. 1 quai Louis II.",
+                                    "url": "https://www.societenautique.mc/",
+                                    "url_label": "www.societenautique.mc",
+                                    "next_event": null,
+                                    "fee": {
+                                        "text": "€150 (juniors born after 2008); €250 (adults) plus a €400 entrance fee for new adult members; Aviron Santé €250 (FFA licence and insurance included)",
+                                        "url": "https://www.societenautique.mc/inscriptions"
+                                    },
+                                    "membership_url": "",
+                                    "notes": "",
+                                    "status": "active"
+                                },
+                                {
+                                    "name": "Monte-Carlo Golf Club",
+                                    "short_name": "",
+                                    "description": "Members’ golf club at Mont Agel above La Turbie, in France, used by the Monaco community.",
+                                    "url": "https://montecarlogolfclub.com/",
+                                    "url_label": "montecarlogolfclub.com",
+                                    "next_event": null,
+                                    "fee": null,
+                                    "membership_url": "https://montecarlogolfclub.com/le-club/",
+                                    "notes": "",
+                                    "status": "active"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "q": "What is the CREM?",
+            "a": "The CREM, or Club des Résidents Étrangers de Monaco, opened on 1 June 2010 with the support of H.S.H. Prince Albert II. It is the main cross-national club for foreign and Monegasque residents and for companies registered in Monaco, with more than 500 members from 46 countries. Its premises are at 1 avenue Princesse Grace, and it hosts the Welcome Office’s information meetings for new residents."
+        },
+        {
+            "q": "Is there an American club in Monaco?",
+            "a": "Yes. Association Monaco / USA, known as MonacoUSA, is the Monaco association for the American community and friends of the United States. The Canadian Club de Monaco is listed in the official directory. The American Club of the Riviera sometimes holds events in Monaco but is a Côte d’Azur club, not a Monaco-registered national club. There is no American Chamber of Commerce in Monaco."
+        },
+        {
+            "q": "Is there a British club?",
+            "a": "Yes. The British Association of Monaco (BAM), founded on 30 October 1935, is the social and charitable association for British and Commonwealth residents, with about 250 members. Associate membership is open to other nationalities. There is no British Business Group in Monaco; company networking goes through the Chamber of Commerce."
+        },
+        {
+            "q": "Is there an Irish club?",
+            "a": "There is no separate Irish residents’ association of the usual kind. The Princess Grace Irish Library is the main gathering point for the Irish community: it has a membership, and runs a regular programme of lectures and symposia, a book club and a St Patrick’s Day event. Alongside it are the Monaco-Ireland Arts Society, founded in October 1994 to present Irish literature, drama and music, and the Ireland Funds Monaco chapter."
+        },
+        {
+            "q": "Which service clubs are in Monaco?",
+            "a": "Monaco has the Rotary Club de Monaco (chartered in 1937), the Rotary Club de Monte-Carlo (founded on 16 April 2026), Rotaract Prince Albert Ier, the Lions Club de Monaco, the Lions Club Féminin de Monaco (listed in the official directory, with no recent public programme independently confirmed for 2023–26), the Kiwanis Club de Monaco, Soroptimist Monaco and the Zonta Club Principauté de Monaco. They are brought together locally by the Comité des Clubs Service Internationaux de Monaco (CCSIM). No Round Table, Ladies Circle or Monaco Inner Wheel club could be verified."
+        }
+    ],
+    "dissolved_note": {
+        "heading": "A note on dissolved associations",
+        "paragraphs_html": [
+            "The Club Hispano-Monégasque Cervantes was dissolved as of 31 December 2023 (<em>Journal de Monaco</em>, journal 8681, 2024). MONASIA, which described itself as linking Monaco with Russia, Kazakhstan and China, was dissolved on 14 April 2025. Neither is listed here as active. Their names may still appear in outdated directory pages."
+        ]
+    }
+}
