@@ -1,10 +1,10 @@
 {
     "schema_version": 1,
-    "updated": "2026-11-14",
+    "updated": "2026-11-23",
     "source": "NEWS.MC SEO Desk. Extracted from the built-in copy in the news.mc snippet \"Monaco clubs\" v003e (14 Nov 2026). Read by https://news.mc every 12 hours; see README.md.",
     "meta": {
-        "checked_date": "2026-11-14",
-        "events_checked_date": "2026-11-14",
+        "checked_date": "2026-11-23",
+        "events_checked_date": "2026-11-23",
         "contact_url": "https://news.mc/contact/",
         "contact_label": "Contact NEWS.MC",
         "faq_heading": "Frequently asked questions",
@@ -40,13 +40,13 @@
                                     "url": "https://www.bam-monaco.org/",
                                     "url_label": "www.bam-monaco.org",
                                     "next_event": {
-                                        "title": "The Tea Cosy Club",
-                                        "date": "2026-11-20",
-                                        "date_text": "20 November 2026",
-                                        "time": "15:00–17:00",
-                                        "venue": "St Paul Anglican Church",
-                                        "note": "",
-                                        "url": "https://www.bam-monaco.org/event-6893214"
+                                        "title": "Traditional English Afternoon Tea",
+                                        "date": "2026-11-24",
+                                        "date_text": "Tuesday 24 November 2026",
+                                        "time": "15:30",
+                                        "venue": "St Paul's Anglican Church",
+                                        "note": "sold out",
+                                        "url": "https://www.bam-monaco.org/event-6893218"
                                     },
                                     "fee": null,
                                     "membership_url": "https://www.bam-monaco.org/join-us",
@@ -116,15 +116,7 @@
                                     "description": "Monaco association for the American community and friends of the United States, with social and cultural events.",
                                     "url": "https://monacousa.org/",
                                     "url_label": "monacousa.org",
-                                    "next_event": {
-                                        "title": "Meet the Consuls!",
-                                        "date": "2026-11-17",
-                                        "date_text": "Tuesday 17 November 2026",
-                                        "time": "18:00",
-                                        "venue": "Rumore by Zeffirino, 11 rue du Portier",
-                                        "note": "Welcoming Honorary Monaco Consuls to the US and Canada",
-                                        "url": "https://www.facebook.com/events/1643767083993447/"
-                                    },
+                                    "next_event": null,
                                     "fee": null,
                                     "membership_url": "",
                                     "notes": "",
@@ -154,13 +146,13 @@
                                     "url": "https://americancluboftheriviera.wildapricot.org/",
                                     "url_label": "americancluboftheriviera.wildapricot.org",
                                     "next_event": {
-                                        "title": "Beaujolais Nouveau 2026 Celebration",
-                                        "date": "2026-11-19",
-                                        "date_text": "19 November 2026",
-                                        "time": "18:00–21:00",
-                                        "venue": "Le Napoléon Brasserie, Nice",
+                                        "title": "Coffee Morning in Antibes",
+                                        "date": "2026-11-25",
+                                        "date_text": "25 November 2026",
+                                        "time": "10:00",
+                                        "venue": "Le Relais du Postillon, Antibes",
                                         "note": "",
-                                        "url": "https://americancluboftheriviera.wildapricot.org/event-6891685"
+                                        "url": "https://americancluboftheriviera.wildapricot.org/event-6892523"
                                     },
                                     "fee": {
                                         "text": "€60 a year per person, plus a one-time €40 initiation fee",
@@ -187,13 +179,13 @@
                                     "url": "https://www.cai-asso.com/",
                                     "url_label": "www.cai-asso.com",
                                     "next_event": {
-                                        "title": "Reception and lunch for Monaco’s National Day",
-                                        "date": "2026-11-18",
-                                        "date_text": "Wednesday 18 November 2026",
-                                        "time": "12:00",
-                                        "venue": "Automobile Club de Monaco",
+                                        "title": "Jour Fixe and Advent Tea Time",
+                                        "date": "2026-12-03",
+                                        "date_text": "Thursday 3 December 2026",
+                                        "time": "17:00–19:00",
+                                        "venue": "Restaurant Marlow, Mareterra",
                                         "note": "",
-                                        "url": "https://www.cai-asso.com/fr/agenda/r%C3%A9ception-%C3%A0-l-occasion-de-la-f%C3%AAte-nationale-de-monaco-000476"
+                                        "url": "https://www.cai-asso.com/fr/agenda/jour-fixe-et-tea-time-de-l-avent-au-restaurant-marlow-000477"
                                     },
                                     "fee": null,
                                     "membership_url": "https://www.cai-asso.com/fr/comment-devenir-membre-du-cai-32",
@@ -207,13 +199,13 @@
                                     "url": "https://www.club-suisse-monaco.com/",
                                     "url_label": "www.club-suisse-monaco.com",
                                     "next_event": {
-                                        "title": "Fête de Noël 2026",
-                                        "date": "2026-12-03",
-                                        "date_text": "Thursday 3 December 2026",
-                                        "time": "19:00",
-                                        "venue": "Castelroc",
+                                        "title": "Conference by Gil Mihaely: “La culture du combat en Israël”",
+                                        "date": "2026-11-23",
+                                        "date_text": "Monday 23 November 2026",
+                                        "time": "18:15–20:00",
+                                        "venue": "Hôtel Novotel Monte Carlo",
                                         "note": "",
-                                        "url": "https://www.club-suisse-monaco.com/events/fete-de-noel-2026"
+                                        "url": "https://www.club-suisse-monaco.com/events/conference-de-gil-mihaely-la-culture-du-combat-en-israel"
                                     },
                                     "fee": {
                                         "text": "Admission €200 (single) or €300 (couple), once; annual membership €150 (single) or €250 (couple), January–December",
@@ -337,15 +329,7 @@
                                     "description": "Founded in 1979 and affiliated with the Dante Alighieri Society in Rome. Promotes Italian language and culture, with courses, PLIDA certification and cultural events.",
                                     "url": "https://www.ladantemonaco.com/",
                                     "url_label": "www.ladantemonaco.com",
-                                    "next_event": {
-                                        "title": "Film screening: La Pazza Gioia",
-                                        "date": "2026-11-18",
-                                        "date_text": "Wednesday 18 November 2026",
-                                        "time": "18:30",
-                                        "venue": "Auditorium Agorà, Maison Diocésaine",
-                                        "note": "",
-                                        "url": "https://www.ladantemonaco.com/eventi/"
-                                    },
+                                    "next_event": null,
                                     "fee": null,
                                     "membership_url": "https://www.ladantemonaco.com/diventa-socio/perche-diventare-socio.kl",
                                     "notes": "",
@@ -661,9 +645,9 @@
                                         "date": "2026-11-28",
                                         "date_text": "28 November 2026",
                                         "time": "11:00–15:00",
-                                        "venue": "",
+                                        "venue": "Royal Mougins Golf Resort, Mougins",
                                         "note": "",
-                                        "url": "https://www.nedazur.org/agenda/cleveringabijeenkomst-2026"
+                                        "url": "https://www.nedazur.org/mijn-dnc/nieuws/cleveringabijeenkomst-2026"
                                     },
                                     "fee": {
                                         "text": "€40 a year (individual) or €52 a year (family), plus a one-time €10 enrolment fee per person",
@@ -696,13 +680,13 @@
                                     "url": "https://www.club-residents-etrangers-monaco.com/",
                                     "url_label": "www.club-residents-etrangers-monaco.com",
                                     "next_event": {
-                                        "title": "Dégustation de vins de Bourgogne – David Bolzan",
-                                        "date": "2026-11-17",
-                                        "date_text": "17 November 2026",
-                                        "time": "",
-                                        "venue": "",
-                                        "note": "",
-                                        "url": "https://www.club-residents-etrangers-monaco.com/fr/events.html"
+                                        "title": "Vanessa von Zitzewitz – Exposition",
+                                        "date": "2026-11-25",
+                                        "date_text": "25 November 2026",
+                                        "time": "18:30",
+                                        "venue": "CREM",
+                                        "note": "members only",
+                                        "url": "https://www.club-residents-etrangers-monaco.com/fr/events/vanessa-von-zitzewitz-oe-exposition.html,002448"
                                     },
                                     "fee": null,
                                     "membership_url": "https://www.club-residents-etrangers-monaco.com/fr/les-formulaires-d-adhesion.html,37",
@@ -728,13 +712,13 @@
                                     "url": "https://www.mcc.mc/",
                                     "url_label": "www.mcc.mc",
                                     "next_event": {
-                                        "title": "Conférence “Business Destination”: Republic of the Czech Republic",
-                                        "date": "2026-11-17",
-                                        "date_text": "17 November 2026",
+                                        "title": "Forum économique : Danemark",
+                                        "date": "2026-11-24",
+                                        "date_text": "24 November 2026",
                                         "time": "",
                                         "venue": "",
                                         "note": "",
-                                        "url": "https://www.mcc.mc/fr/agenda/conference-business-destination-la-republique-tcheque"
+                                        "url": "https://www.mcc.mc/fr/agenda/forum-economique-danemark"
                                     },
                                     "fee": {
                                         "text": "€700 a year (Classic) or €1,400 a year (Premium)",
@@ -873,13 +857,13 @@
                                     "url": "https://www.rotary.mc/",
                                     "url_label": "www.rotary.mc",
                                     "next_event": {
-                                        "title": "Statutory meeting and dinner (Champagne – Maison Perrier-Jouët)",
-                                        "date": "2026-11-17",
-                                        "date_text": "17 November 2026",
-                                        "time": "20:00–22:30",
-                                        "venue": "Méridien Beach Plaza",
+                                        "title": "Statutory meeting and lunch",
+                                        "date": "2026-11-24",
+                                        "date_text": "24 November 2026",
+                                        "time": "12:00–14:00",
+                                        "venue": "La Môme",
                                         "note": "",
-                                        "url": "https://www.rotary.mc/evenement/reunion-statutaire-au-meridien-diner-au-champagne-maison-perrier-jouet/"
+                                        "url": "https://www.rotary.mc/evenement/reunion-statutaire-dejeuner-6/"
                                     },
                                     "fee": null,
                                     "membership_url": "https://www.rotary.mc/devenir-membre/",
@@ -892,15 +876,7 @@
                                     "description": "New mixed club, founded on 16 April 2026, also in District 1730.",
                                     "url": "https://www.rotary1730.org/monte-carlo/",
                                     "url_label": "www.rotary1730.org/monte-carlo",
-                                    "next_event": {
-                                        "title": "Launch evening",
-                                        "date": "2026-11-18",
-                                        "date_text": "Wednesday 18 November 2026",
-                                        "time": "from 19:00",
-                                        "venue": "Hôtel Méridien",
-                                        "note": "",
-                                        "url": "https://www.rotary1730.org/monte-carlo/"
-                                    },
+                                    "next_event": null,
                                     "fee": null,
                                     "membership_url": "",
                                     "notes": "",
@@ -1015,13 +991,13 @@
                                     "url": "https://www.ufm.mc/",
                                     "url_label": "www.ufm.mc",
                                     "next_event": {
-                                        "title": "Causerie: “Nos beaux ratés : on en parle ?”",
-                                        "date": "2026-11-17",
-                                        "date_text": "Tuesday 17 November 2026",
-                                        "time": "18:00–19:30",
-                                        "venue": "",
-                                        "note": "",
-                                        "url": "https://www.ufm.mc/causeries/?evenement=2026-11-17#rendezvous"
+                                        "title": "Self-defence day (women only)",
+                                        "date": "2026-11-28",
+                                        "date_text": "Saturday 28 November 2026",
+                                        "time": "10:00–17:00",
+                                        "venue": "UFM, 26 quai Jean-Charles Rey",
+                                        "note": "two sessions 10:00–13:00 and 14:00–17:00; free, registration required",
+                                        "url": "https://www.ufm.mc/self-defense/"
                                     },
                                     "fee": {
                                         "text": "€25 a year",
